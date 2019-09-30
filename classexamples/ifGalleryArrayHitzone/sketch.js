@@ -52,7 +52,6 @@ function draw() {
     rect(hitX[1], hitY[1], hitSize, hitSize);
 
 
-
 } // end of draw
 
 function mousePressed(){
